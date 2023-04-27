@@ -22,7 +22,6 @@ Hi 🖖, I'm Adam
 
 - 📫 How to reach me: **projectnba77@gmail.com**
 
-- ⚡ Fun fact: My first line of code was not "Hello World!"
 ​
 
 <h2>👨🏻‍💻 Languages & Frameworks & Tools & Abilities</h2>

@@ -69,7 +69,6 @@ Hi 🖖, I'm Adam
 
 <h2>
 👀 LeetCode:
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Dotzooo?theme=dark&font=Rancho&ext=heatmap)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Dotzooo" alt="LeetCode Badges" />
 </h2>
 

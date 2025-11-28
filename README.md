@@ -65,6 +65,6 @@ Hi 🖖, I'm Adam
 <h2>
 👀 LeetCode:
   
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Dotzooo&animated=true)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dotzooo&animated=true)
 </h2>
 

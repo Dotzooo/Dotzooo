@@ -60,11 +60,5 @@ Hi 🖖, I'm Adam
   <img src = "https://github-readme-stats.vercel.app/api?username=dotzooo&show_icons=true&theme=dracula" width = 400>
   <img src = "https://streak-stats.demolab.com?user=dotzooo&mode=weekly&theme=dracula&border_radius=8" width = 400>
 </p>
-<!-- <a href="https://app.dooboo.io/dotzooo"><img src="https://server.dooboo.io/github-stats/dotzooo"  /></a> -->
 
-<h2>
-👀 LeetCode:
-  
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dotzooo&animated=true)
-</h2>
 

@@ -63,12 +63,7 @@ Hi 🖖, I'm Adam
 <!-- <a href="https://app.dooboo.io/dotzooo"><img src="https://server.dooboo.io/github-stats/dotzooo"  /></a> -->
 
 <h2>
-🙋‍♂️ Visitor count: 
-<img src="https://profile-counter.glitch.me/dotzooo/count.svg" alt="visitor badge" />
-</h2>
-
-<h2>
 👀 LeetCode:
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Dotzooo" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Dotzooo&filter=study" alt="LeetCode Badges" />
 </h2>
 

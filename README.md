@@ -64,6 +64,6 @@ Hi 🖖, I'm Adam
 
 <h2>
 👀 LeetCode:
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Dotzooo&filter=study" alt="LeetCode Badges" />
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Dotzooo&animated=true)
 </h2>
 

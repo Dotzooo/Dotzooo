@@ -50,11 +50,6 @@ Hi 🖖, I'm Adam
   <img alt="OpenStreetMap" src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" />
 </p>
 
-<h2>🏆 My Github Trophy:</h2>
-<p>
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=dotzooo&theme=darkhub&title=MultiLanguage,Commits,Repositories,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
-</p>
-
 <h2>🏆 Stats: </h2>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=dotzooo&show_icons=true&theme=dracula" width = 400>
